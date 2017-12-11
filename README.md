@@ -1,3 +1,7 @@
+Why index.html does not work, 
+404 on https://sam558.github.io/Recorderjs/
+
+
 # Recorder.js
 
 ## A plugin for recording/exporting the output of Web Audio API nodes
